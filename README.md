@@ -29,7 +29,9 @@ sudo cp *.a /usr/lib
 Sync to github.com/stevemac321/KandR-GoogleTesting
 
 cmake -DCMAKE_BUILD_TYPE=Debug CMakeLists.txt
+
 make
+
 ./runTests
 
 Watch my video (todo)
